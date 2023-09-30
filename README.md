@@ -15,7 +15,7 @@ Stepping in as a dedicated data analyst, I embarked on a journey to revamp AtliQ
 Power BI enabled AtliQ Grand to track revenue streams comprehensively. The dashboard provides a clear breakdown of revenue sources, helping them allocate resources effectively.
 
 2. **RevPAR (Revenue per Available Room):** 🛏️
-RevPAR is a critical KPI for the hotel industry. By analyzing RevPAR trends, AtliQ Grand can adjust pricing strategies and marketing efforts in real time.
+RevPAR is a critical KPI for the hotel industry. By analyzing RevPAR trends, AtliQ Grand can adjust pricing strategies and marketing efforts in real-time.
 
 3. **DSRN (Daily Sellable Room Nights):** 📈
 DSRN is a metric that quantifies the number of rooms a hotel is able to sell on a given day. With Power BI, AtliQ Grand can monitor this key number.
@@ -33,13 +33,19 @@ Monitoring occupancy rates in real-time enables AtliQ Grand to offer last-minute
 Power BI has empowered AtliQ Grand to monitor their direct booking percentage. Reducing reliance on third-party platforms enhances profitability and customer relationships.
 
 **Below are some other metrics also included in this dashboard:
-➡Comparing KPIs on WoW trends through Tooltips.
+
+➡Comparing KPIs on WoW trends through Tooltips
+
 ➡Total Bookings
   -Weekday
   -Weekend
+  
 ➡Cancellation%
+
 ➡Avg Rating
+
 ➡DBRN
+
 ➡DURN
 
 **Looking Ahead:**
